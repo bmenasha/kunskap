@@ -1,0 +1,15 @@
+{
+  "id": 1
+  "project_ids": [
+    "project-1"
+  ],
+  "commitments": [
+    {
+      "unit_type": "RAM",
+      "cud_type": "Regular Usage",
+      "amount": 50,
+      "region": "us-west1"
+    }
+  ],
+  "timestamp": "2019-01-21 08:25:11.227 UTC"
+}
